@@ -1,6 +1,6 @@
 from random import randint as rnd 
 from copy import deepcopy
-from get_item import get_item
+from get_item import *
 from parameters import *
 from random_picker import random_picker
 from fitness import fitness
